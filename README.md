@@ -33,7 +33,7 @@ Here are some of my highlighted projects. More in the [Repositories](https://git
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Fraud Detection Pipeline]() | End-to-end pipeline for detecting suspicious transactions using Python & Scikit-learn. | Python, Pandas, Scikit-learn |
+| [AML Detection Pipeline](https://github.com/OlimH/aml-transaction-monitoring--/tree/56a09ec960df8eaff8786f6e1426b501e609b2be/Desktop/GitHub%20Projects/banking-data-science-projects%3A/aml-transaction-monitoring%3A) | End-to-end pipeline for detecting suspicious transactions using Python & Scikit-learn. | Python, Pandas, Scikit-learn | 
 | [AML Model Tuning Automation]() | Automated tuning & validation for AML Actimize models. | Python, SQL, Tableau |
 | [Customer Segmentation]() | Clustering and profiling for targeted risk monitoring. | Python, Scikit-learn, Matplotlib |
 | [NLP Transaction Narratives]() | NLP model to classify suspicious transaction descriptions. | Python, NLTK, spaCy |
